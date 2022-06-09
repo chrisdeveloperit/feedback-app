@@ -48,7 +48,7 @@
       left: 50%;
       width: 50px;
       height: 50px;
-      padding: 30% 10px 0 10px;
+      padding: 30% 8px 0 8px;
       border-radius: 50%;
       transform: translate(-50%, -50%);
       cursor: pointer;
